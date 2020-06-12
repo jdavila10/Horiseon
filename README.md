@@ -1,3 +1,23 @@
+Horiseon is a fake SEO webpage designed to teach the value of semantic elements. 
+
+Some of the key changes I made to the page were:
+
+* Clean the html code by re-arranging the <li>. Didn't find much to clean. 
+* Change the title to the webpage name.
+* Move the index.html file outside of the Developer folder and fix the link to the CSS file.
+* Change the main div for a <main> semantic tag.
+* Change some parent divs to <section> and the child elements that had a <float> element I changed them to <aside>
+* Change the div footer for a <footer> element.
+* Add <alt> tags to all the images and describe the picture in a few words.
+
+
+
+
+
+
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
