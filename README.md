@@ -2,14 +2,14 @@ Horiseon is a fake SEO webpage designed to teach the value of semantic elements.
 
 Some of the key changes I made to the page were:
 
-* Cleaned the html code by re-arranging the <li>. Didn't find much to clean in the index.html file.
+* Cleaned the html code by re-arranging the li, Didn't find much to clean in the index.html file.
 * Changed the title to the webpage name.
 * Moved the index.html file outside of the Developer folder and fix the link to the CSS file.
-* Replaced the main div for a <main> semantic tag.
-* Replaced some parent divs to <section> and the child elements that had a <float> element I changed them to <aside>.
-* Replaced the <div> that were in the main body to <article>. 
-* Change the div footer for a <footer> element.
-* Add <alt> tags to all the images and describe the picture in a few words.
+* Replaced the main div for a main semantic tag.
+* Replaced some parent divs to section and the child elements that had a float element I changed them to aside.
+* Replaced the div that were in the main body to article. 
+* Change the div footer for a footer element.
+* Add alt tags to all the images and describe the picture in a few words.
 * Changed some of the classes that were repeated in the CSS file and compiled them to clean up the code.
 
 
