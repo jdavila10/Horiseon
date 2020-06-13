@@ -11,6 +11,7 @@ Some of the key changes I made to the page were:
 * Change the div footer for a footer element.
 * Add alt tags to all the images and describe the picture in a few words.
 * Changed some of the classes that were repeated in the CSS file and compiled them to clean up the code.
+* Added some comments to the html and CSS files.
 
 
 
